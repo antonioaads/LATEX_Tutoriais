@@ -1,0 +1,31 @@
+\changetocdepth {4}
+\select@language {brazil}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{5}{chapter*.5}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Arquitetura}}{6}{chapter.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Obten\IeC {\c c}\IeC {\~a}o e valida\IeC {\c c}\IeC {\~a}o de dados}}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Componentes}{7}{section.2.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Demandas}}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Determina\IeC {\c c}\IeC {\~a}o de demandas}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Correntes}{9}{section.3.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Escolha dos Componentes}}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Bateria}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Servos}{13}{section.4.2}
+\contentsline {section}{\numberline {4.3}Regulador de Tens\IeC {\~a}o}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}Receptor}{15}{section.4.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Projeto da Fia\IeC {\c c}\IeC {\~a}o}}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Tipo de Cabeamento}{17}{section.5.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Lista de Outputs}}{19}{chapter.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclus\IeC {\~a}o}}{20}{chapter.7}
+\vspace {\cftbeforechapterskip }
