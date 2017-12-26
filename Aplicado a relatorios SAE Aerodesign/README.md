@@ -18,11 +18,11 @@ Pronto, após a execução de tais comandos, sua máquina estará prontinha para
 
 Caso queiram se aventurar e utilizar outra IDE, ou da maneira que acharem mais interessante, podem compilar diretamente pelo terminal, utilizando a sequência de comandos abaixo:
 
-**$ pdflatex <nome do arquivo>**
+**$ pdflatex** <nome do arquivo>
 
-**$ bibtex <nome do arquivo>.aux**
+**$ bibtex** <nome do arquivo>.aux
 
-**$ pdflatex <nome do arquivo>**
+**$ pdflatex** <nome do arquivo>
 
 ## Passo a Passo - Sistema Windows 
 
