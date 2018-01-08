@@ -29,7 +29,9 @@ Caso queiram se aventurar e utilizar outra IDE, ou da maneira que acharem mais i
 Para evitar complicações e pelo fato de ser..., deixa pra lá. Preferi olhar no youtube diversos tutoriais a fim de escolher um que fosse sucinto e que funcionasse de maneira eficiente. Então, escolhi esse [tutorial](https://www.youtube.com/watch?v=4udFXbqtayE).
 
 [Download do MikTex](http://miktex.org/download)
+
 [Download do TexMaker](http://www.xm1math.net/texmaker/download.html)
+
 [Download do Dicionário](https://drive.google.com/file/d/0B7AzlvIk-DAYcEVNaHNMeTNQNUU/view)
 
 ## Exemplos
